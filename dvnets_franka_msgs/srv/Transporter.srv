@@ -1,0 +1,10 @@
+sensor_msgs/Image[] colors
+sensor_msgs/Image[] depths
+string lang_goal
+
+---
+
+geometry_msgs/Pose pick_pose
+geometry_msgs/Pose place_pose
+float32[] pick_xyt
+float32[] place_xyt
